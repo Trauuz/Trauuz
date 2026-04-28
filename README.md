@@ -1,11 +1,11 @@
 <div align="center">
-<h2 align="center"> 👨🏻‍💻 About Me </h2>
+<h2 align="center"> About Me </h2>
   <p>🔭 I’m currently working on a POS system using React, Firebase, and other modern web technologies.</p>
   <p>🌱 Currently learning PHP and Kotlin at university while continuously upskilling in React and its libraries.</p>
   <p>📫 How to reach me <strong>tristancarabbacan06@gmail.com</strong></p>
 </div>
 
-<h2 align="center"> 💻 Tech Stack </h2>
+<h2 align="center"> Tech Stack </h2>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<h2 align="center"> 📊 GitHub Stats </h2>
+<h2 align="center"> GitHub Stats </h2>
 
 <div align="center">
 
