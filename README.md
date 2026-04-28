@@ -1,8 +1,12 @@
 <div align="center">
 <h2 align="center"> About Me </h2>
+  <h3>👋🏻 Hi, I am <strong>Tristan Carabbacan</strong>.</h3>
+  
   <p>🔭 I’m currently working on a POS system using React, Firebase, and other modern web technologies.</p>
   <p>🌱 Currently learning PHP and Kotlin at university while continuously upskilling in React and its libraries.</p>
-  <p>📫 How to reach me <strong>tristancarabbacan06@gmail.com</strong></p>
+
+  
+  <p>📫 You can reach me through my personal email: <strong>tristansamc@gmail.com</strong></p>
 </div>
 
 <h2 align="center"> Tech Stack </h2>
